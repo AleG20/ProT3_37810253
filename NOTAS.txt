@@ -1,0 +1,17 @@
+Se genero las configuraciones necesarias para que funcione la pagina
+
+-el cliente se logea
+alexander.dancerss@gmail.com
+pass oscar
+
+-se registra un nuevo cliente
+
+-el admin para prueba es
+ale@gmail.com oscar
+
+
+la base de datos se llama
+ci_base
+
+el scrip para generar la base esta en el proyecto
+
